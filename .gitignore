@@ -1,9 +1,8 @@
-homework_1
-/homework_1.2/
-.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
 __pycache__
 .python-version
-catboost_info
+**/.catboost_info/
 
 # ================================
 # Python
