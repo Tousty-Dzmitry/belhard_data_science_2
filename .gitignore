@@ -14,3 +14,4 @@ __pycache__/
 # Конфиги и секреты
 .env
 .secrets
+pytorch_chatbot/movie-corpus/utterances.jsonl
