@@ -1,0 +1,26 @@
+Takoyaki: Octopus, Flour Batter, Bonito Flakes, Green Onions
+Vada Pav: Potato, Spices, Bread Bun, Chutney
+Funnel Cake: Batter, Sugar, Oil
+Kathi Roll: Flatbread, Egg, Chicken, Onions, Chutney
+Pad Thai: Rice Noodles, Tofu, Eggs, Peanuts, Bean Sprouts
+Pani Puri: Semolina, Tamarind, Chickpeas, Spices
+Taiyaki: Flour, Red Bean Paste
+Gözleme: Dough, Spinach, Cheese
+Kokoreç: Lamb Intestines, Spices, Bread
+Roti Sai Mai: Roti, Cotton Candy
+Yakisoba: Noodles, Pork, Cabbage, Yakisoba Sauce
+Quesadilla: Tortilla, Cheese, Mushrooms
+Elote: Corn, Mayo, Cheese, Chili Powder
+Hot Dog: Sausage, Bun, Mustard, Ketchup
+Tacos al Pastor: Pork, Pineapple, Onions, Cilantro
+Simit: Flour, Sesame Seeds, Yeast
+Moo Ping: Pork, Garlic, Soy Sauce, Sugar
+Philly Cheesesteak: Beef, Cheese, Roll, Onions
+Falafel: Chickpeas, Herbs, Spices, Tahini Sauce
+Manakish: Flatbread, Za'atar, Olive Oil
+Shawarma: Meat, Pita Bread, Garlic Sauce, Pickles
+Okonomiyaki: Cabbage, Flour, Pork, Sauce, Mayo
+Yakisoba: Noodles, Vegetables, Sauce
+Bunny Chow: Bread, Curry
+Suya: Beef, Spices, Skewers
+Koshari: Lentils, Rice, Pasta, Tomato Sauce, Onions
