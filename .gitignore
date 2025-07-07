@@ -17,3 +17,7 @@ chatbot/*.txt
 .secrets
 pytorch_chatbot/movie-corpus/utterances.jsonl
 pytorch_chatbot/movie-corpus/utterances.jsonl
+
+venv/
+
+
